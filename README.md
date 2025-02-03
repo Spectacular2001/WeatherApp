@@ -1,2 +1,2 @@
-# WeatherApp
-An weather app that help to get tempreture updates
+# Weather_App
+ Weather app for getting weather related information
